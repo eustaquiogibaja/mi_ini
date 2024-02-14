@@ -1,0 +1,18 @@
+Accesos servidor
+====================
+carlos rami
+
+lui palaciosew
+
+
+1.	tener claro todo el alcance completo
+El alcance de la IDEA142246 es implementar la funcionalidad de Protección Móvil en DAC y CAD (ya que actualmente en producción funciona para CAC).
+
+
+
+2.	alcance entregado : 
+3.	alcance faltante: WASP; 
+4.	beneficio cuantitativo proyectado. :
+5.	esfuerzo adicional a nivel de ME adicional o que necesita en tiempo y costo para cerrarlo. : SOL SE TIENE ME 
+
+joseph 
